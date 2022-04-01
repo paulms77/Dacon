@@ -1,2 +1,1 @@
-# Dacon-competition
-데이콘경쟁에서의 코딩
+# Dacon에서 활동한 기록들을 담아두는 공간
