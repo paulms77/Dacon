@@ -1,7 +1,7 @@
 # 데이콘 경쟁에 참여한 코딩
 
 ## Dacon profile
-<img width="368" alt="image" src="https://user-images.githubusercontent.com/69188065/161416552-7ed9d0f8-0635-424c-b186-d8f6cd757eba.png">
+<img width="368" alt="image" src="<img width="958" alt="image" src="https://user-images.githubusercontent.com/69188065/197386075-213073f9-b530-4e9a-b42f-58245b83475f.png">">
 https://dacon.io/myprofile/412049/home
 
 ## Top achievement
