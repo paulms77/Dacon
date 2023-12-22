@@ -2,7 +2,7 @@
 
 ## Dacon profile
 <img width="958" alt="스크린샷 2023-12-22 오후 4 10 27" src="https://github.com/paulms77/Dacon/assets/69188065/95c83861-d299-4933-9f12-d2a52a1fe6ac">
-https://dacon.io/myprofile/412049/home
+URL: https://dacon.io/myprofile/412049/home
 
 ## Award
 + 운동 동작 분류 AI 경진대회 - 수상 (7th) / 1152
