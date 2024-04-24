@@ -1,7 +1,8 @@
 # 데이콘 경쟁
 
 ## Dacon profile
-<img width="958" alt="스크린샷 2023-12-22 오후 4 10 27" src="https://github.com/paulms77/Dacon/assets/69188065/95c83861-d299-4933-9f12-d2a52a1fe6ac">
+![Uploading 스크린샷 2024-01-20 오후 6.39.54.png…]()
+
 
 [프로필 이동](https://dacon.io/myprofile/412049/home)
 
